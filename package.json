@@ -1,0 +1,11 @@
+{
+  "name": "jackknife",
+  "version": "1.0.0",
+  "description": "MVC Coffeescript api Framework for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
